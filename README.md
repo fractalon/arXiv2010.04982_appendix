@@ -4,6 +4,16 @@ We calculate list of interest values of $A$ (see remarks after theorem 1.3 in pa
 
 We use Python 3.7 and matplotlib.
 
-Script `run.py` save results to folder `output`. You can change constant `END_VALUE` in code for change bound of calculation.
+Script `run.py` save results to `output` folder. You can change constant `END_VALUE` in code for change bound of calculation.
 
 See `precalculated` folder for precalculated graphics with big numbers.
+
+# Results
+
+For all natural numbers:
+
+![](/precalculated/all_numbers_less_then_42326.png)
+
+For prime numbers:
+
+![](/precalculated/primes_less_then_42326.png)
